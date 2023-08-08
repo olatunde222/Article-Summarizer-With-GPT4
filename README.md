@@ -6,3 +6,5 @@ Building a lengthy articles summarizing application with OpenAI's GPT Model with
 ![download](https://github.com/olatunde222/Article-Summarizer-With-GPT4/assets/115417709/e1083e30-bdaa-456b-9c73-32cf6e2c99dc)
 
 
+![download](https://github.com/olatunde222/Article-Summarizer-With-GPT4/assets/115417709/81284b21-1a7a-486f-a42d-b0963db842cc)
+![download](https://github.com/olatunde222/Article-Summarizer-With-GPT4/assets/115417709/c6b28b9e-3f6f-420a-b8f6-f118256842a1)
