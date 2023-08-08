@@ -1,0 +1,16 @@
+- To initialize the React Application with Vite,React,TailwindCSS use the       folowing dependencies:
+	- npm create vite@latest
+	- npm install @reduxjs/toolkit
+	- npm install -D tailwindcss postcss autoprefixer
+	- npx tailwindcss init -p
+	- npm install react-redux
+
+- Run the Program with :
+	- npm run dev
+
+- Font Familily for this project are:
+	- satoshi:["Satoshi", "sans-serif"],
+        - inter: ["Inter", "sans-serif"]
+
+- Build and Deploy the Application with:
+	- npm run build
